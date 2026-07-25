@@ -43,11 +43,11 @@ The platform features a **dual-role system**: every user can act as both a **Tas
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/ne8Y_tYYTy0/maxresdefault.jpg)](https://youtu.be/ne8Y_tYYTy0)
 
-<p align="center">
-  <a href="https://youtu.be/ne8Y_tYYTy0"><strong>▶️ Watch Video on YouTube</strong></a>
-</p>
+
+https://github.com/user-attachments/assets/62e8f7b9-3cd1-494a-800f-1218074e5d6d
+
+
 
 ---
 
